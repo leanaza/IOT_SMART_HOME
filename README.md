@@ -1,2 +1,3 @@
-# IOT_SMART_HOME
-IOT Smart Home Project 
+# Dream Guard Manager
+
+Dream Guard Manager GUI
